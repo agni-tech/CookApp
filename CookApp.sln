@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookApp", "CookApp\CookApp.csproj", "{C8891BD9-C5FF-4DDC-95FB-F4FA1C477583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookApp.Domain", "CookApp.Domain\CookApp.Domain.csproj", "{60A098E2-C206-47CD-8C32-1D7961B275E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8891BD9-C5FF-4DDC-95FB-F4FA1C477583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8891BD9-C5FF-4DDC-95FB-F4FA1C477583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8891BD9-C5FF-4DDC-95FB-F4FA1C477583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8891BD9-C5FF-4DDC-95FB-F4FA1C477583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A098E2-C206-47CD-8C32-1D7961B275E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A098E2-C206-47CD-8C32-1D7961B275E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A098E2-C206-47CD-8C32-1D7961B275E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A098E2-C206-47CD-8C32-1D7961B275E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {924FD629-69BE-4031-B97B-46D3B8A6367D}
+	EndGlobalSection
+EndGlobal
