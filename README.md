@@ -17,7 +17,9 @@ The following folders were added to Domain project:
     CookApp.Domain.Services
 
 Dtos: For handling items, and it's where the TotalAreaRequired() and CalculateRounds() methods are placed 
+
 Entities: Where the MenuItem Class resides
+
 Services: Uses System.Net.Http to get data from https://isol-grillassessment.azurewebsites.net/api/GrillMenu 
 
 #Testing Program
